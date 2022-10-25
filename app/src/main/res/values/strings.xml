@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Easy Math</string>
+    <string name="myName">Julian Garcia Armengol</string>
+    <string name="version">0.1</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="spinner_text">select an equation</string>
+    <string name="image_description">Image of the selected equation</string>
+    <string name="button_calculate_text">Calculate</string>
+    <string name="tv_val">val 1</string>
+    <string name="edit_text_hint">set a value</string>
+    <string name="spinner_description">spinner to select an equation</string>
+
+    <!-- Spinner -->
+    <string-array name="equations_array">
+        <item>Universal Gravitation</item>
+        <item>Ohm\'s Law</item>
+        <item>Parallel Resistors</item>
+    </string-array>
+
+    <!-- custom strings -->
+    <string name="invalid_input">Invalid input</string>
+    <string name="result">Result</string>
+    <string name="continue_button_text">Continue</string>
+
+    <!-- intent extra strings -->
+    <string name="intent_result" translatable="false">Result</string>
+</resources>

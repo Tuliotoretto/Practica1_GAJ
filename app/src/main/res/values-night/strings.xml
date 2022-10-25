@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="myName" translatable="false">Julian Garcia Armengol</string>
+    <string name="version" translatable="false">0.1</string>
+</resources>

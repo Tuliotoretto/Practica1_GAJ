@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Math</string>
+    <string name="app_logo_description">Logo de aplicación</string>
+    <string name="spinner_text">selecciona una equación</string>
+    <string name="image_description">imagen de la ecuación seleccionada</string>
+    <string name="button_calculate_text">Calcular</string>
+    <string name="tv_val">valor 1</string>
+    <string name="edit_text_hint">agrega un valor</string>
+    <string name="spinner_description">spinner para seleccionar una ecuación</string>
+    <string name="invalid_input">entrada inválida</string>
+    <string name="result">resultado</string>
+    <string name="continue_button_text">Continuar</string>
+</resources>
